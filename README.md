@@ -6,3 +6,5 @@ Note 2: Did the rest of the project, adding in pretty much everything. Fixed my 
 Note 3: Finished the project and got it all pushed onto GitHub! Been working for a while, and like how the page turned out.
 
 Note 4: Fixed a couple errors with grammatical errors.
+
+Note 5: Fixed a couple JS things
